@@ -51,7 +51,11 @@
 
 ### ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass --diff
 
-![8](https://github.com/user-attachments/assets/32546a85-ca7a-4090-82e4-8e6dac797ece)
+![8](https://github.com/user-attachments/assets/569d7713-2bec-410c-a886-f9dad044233f)
+
+### ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass --diff
+
+![9](https://github.com/user-attachments/assets/32aedee2-77c8-4f5b-b24a-95d88d26dacf)
 
 ### Дополнительные проверки на хостовый машинах
 
